@@ -1,0 +1,5 @@
+{
+  "name": "mod-a",
+  "main": "index.js",
+  "typings": "index.d.ts"
+}
